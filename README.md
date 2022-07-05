@@ -19,4 +19,6 @@ Back-End
 ✈ SW마에스트로 13기 (2022.04.12~ )<br>
 🌍 Google Developers Machine Learning Bootcamp 3기 (2022.06.22~)
 
-
+### SNS
+💪 킹명주의 백엔드 일지 : https://mjoo1106.tistory.com/<br>
+👊 자기소개 : https://www.notion.so/KIM-Myeong-Ju-31f62bc00317454e8f3baeb3e610c98c
