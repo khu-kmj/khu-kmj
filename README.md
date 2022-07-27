@@ -6,8 +6,9 @@ Back-End
 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 - Rest API<br>
-- Web Socket<br>
-- MyBatis<br><br>
+- JPA<br>
+- Mybatis<br>
+- Web Socket<br><br>
 
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 - Rest API<br><br>
