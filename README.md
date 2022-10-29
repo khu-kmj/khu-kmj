@@ -1,5 +1,4 @@
-<img src="https://blog.kakaocdn.net/dn/ljwep/btrPR4Zo3cp/iXxoAu1enT2rdGyTX9Be81/img.gif">
-<h5>🔥 Spring으로 화성갈 때까지...</h5>
+<img src="https://blog.kakaocdn.net/dn/YQ33g/btrPUnjUstu/k5lD8KhqEwMK8mvMaj3TAK/img.gif">
 
 Wellcome to MJ github😊
 ===
