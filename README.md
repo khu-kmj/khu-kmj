@@ -26,7 +26,7 @@ Back-End / Server Developer
 <br>
 
 ### 🥪 Activities
-- Google Machine Learning Bootcamp 2th
+- Google Machine Learning Bootcamp 3th
 - Central MakeUs Challenge 11th
 - Software Maestro 13th
 <br>
