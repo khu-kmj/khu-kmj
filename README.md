@@ -3,10 +3,6 @@
 Welcome to  MJ github 🤴
 ===
 
-### 🍔 Introduction
-Michael Jordan, Michael Jackson, Mary Jane, Myeong Ju Let's go
-<br>
-<br>
 
 ### 🌭 Position
 Back-End / Server Developer
