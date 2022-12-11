@@ -28,6 +28,6 @@ Back-End / Server Developer
 - Software Maestro 13th
 <br>
 
-### 🌮 SNS
+### 🌮 Blog
 - 킹명주의 백엔드 일지 : https://mjoo1106.tistory.com/<br>
 
