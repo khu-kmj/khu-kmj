@@ -12,13 +12,20 @@ Back-End / Server Developer
 ### 🍟 Stack
 
 <p align=left>
-<img src="https://img.shields.io/badge/java-F89B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
-<img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+<h4>language<br>
+<img src="https://img.shields.io/badge/Java-f89b00?style=flat-square&logo=Java&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+<br><br>framework<br>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/JUnit5-6DB33F?style=flat-square&logo=JUnit5&logoColor=white">
+<img src="https://img.shields.io/badge/Hibernate-6DB33F?style=flat-square&logo=Hibernate&logoColor=white">
+<img src="https://img.shields.io/badge/Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white">
+<br><br>etc.<br>
+<img src="https://img.shields.io/badge/MySQL-2496ED?style=flat-square&logo=mySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Actions-2496ED?style=flat-square&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
 </p>
 <br>
 
