@@ -1,4 +1,4 @@
-<img src="https://blog.kakaocdn.net/dn/YQ33g/btrPUnjUstu/k5lD8KhqEwMK8mvMaj3TAK/img.gif">
+
 
 Welcome to  MJ github 🤴
 ===
