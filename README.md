@@ -30,9 +30,14 @@ Back-End / Server Developer
 <br>
 
 ### 🥪 Activities
+
+##### 2022
 - Google Machine Learning Bootcamp 3th
-- Central MakeUs Challenge 11th
-- Software Maestro 13th
+- Central MakeUs Challenge 11th 
+- Software Maestro 13th 
+
+##### 2023 
+
 <br>
 
 ### 🌮 Blog
