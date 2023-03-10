@@ -42,5 +42,4 @@ Back-End / Server Developer
 
 ### 🌮 Blog
 - 킹명주의 백엔드 일지 : https://mjoo1106.tistory.com/<br>
-- 킹명주의 취준 일기(개발중) : https://kingmj.tk/home.html<br>
 
