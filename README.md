@@ -31,13 +31,13 @@ Back-End / Server Developer
 
 ### 🥪 Activities
 
-##### 2022
 - Google Machine Learning Bootcamp 3th
 - Central MakeUs Challenge 11th 
 - Software Maestro 13th 
+<br>
 
-##### 2023 
-
+### 🌭 Career
+- Daou Tech 2023. 03 ~
 <br>
 
 ### 🌮 Blog
