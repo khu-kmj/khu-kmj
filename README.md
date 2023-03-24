@@ -36,7 +36,7 @@ Back-End / Server Developer
 - Software Maestro 13th 
 <br>
 
-### 🌭 Career
+### 🍿 Career
 - Daou Tech 2023. 03 ~
 <br>
 
